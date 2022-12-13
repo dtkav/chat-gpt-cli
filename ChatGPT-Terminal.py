@@ -34,4 +34,4 @@ while True:
     presence_penalty=0.0
   )
 
-  print(">> " + response["choices"][0]["text"].strip()) #(ALTERNATE) print('\n' + response["choices"][0]["text"].replace("\n", ""))
+  print(">> " + response["choices"][0]["text"].strip())
