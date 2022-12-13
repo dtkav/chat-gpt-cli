@@ -10,7 +10,7 @@ This Terminal ChatGPT interface is written in Python to generate answers via the
 Outline:
 This code is using the openai module to interact with the OpenAI API. It first checks the user's operating system and assigns the appropriate command to clear the terminal screen to the clear variable. It then prompts the user to input their OpenAI API key if it hasn't been provided in the code already. Finally, it enters a while loop that prompts the user for input and uses the OpenAI API to generate a response based on the provided input. The response is then printed to the terminal.
 ```
-<img src="Example.png" alt="example" width="540px" />
+<img src="Example.png" alt="example" width="900px" />
 
 If you have any feedback or suggestions for improvements, I would love to hear them. 
 Thank you for visiting my GitHub page and considering my project!
