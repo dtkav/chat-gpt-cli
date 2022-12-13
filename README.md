@@ -25,7 +25,7 @@ Thank you for visiting my GitHub page and considering my project!
 
 ### Step 1: Create an [OpenAI Account](https://beta.openai.com/account)
 
-### Step 2: Generate an [OpenAI API Key](https://beta.openai.com/account/api-keys)
+### Step 2: Generate an [OpenAI API Secret Key](https://beta.openai.com/account/api-keys)
 
 ### Step 3: Download [ChatGPT-Terminal](https://github.com/PopDaddyGames/ChatGPT-Terminal.git)
 > Navigate to "ChatGPT-Terminal.py" and input your API Key & Variables
