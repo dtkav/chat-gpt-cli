@@ -4,18 +4,12 @@
 
 I'm excited to share this project with you!
 
-This Reddit bot is written in Python and uses the [ChatGPT-Wrapper](https://github.com/mmabrouk/chatgpt-wrapper) by [mmabrouk](https://github.com/mmabrouk/) to generate answers via the [ChatGPT](https://chat.openai.com/chat) model (which is a large language model trained by [OpenAI](https://openai.com)) to Reddit threads and submissions. 
-
-I designed this simple bot to provide helpful and engaging responses to users on Reddit, making it a valuable addition to any subreddit. This code was mainly generated with ChatGPT itself!
-
-The bot allows the developer to have control over various features, such as filters to remove errors from ChatGPT, defining personalities for the bot to use when generating responses, customizable delays between responses, and the ability to specify which subreddit(s) the bot should operate in.
-
-To use the bot, you will need to host it on your own local machine or server. Once it is set up, the bot will scan the subreddit(s) of your choice for new threads and submissions. When it finds an unanswered thread or submission, it will use the ChatGPT large language model to generate a response and post it as a comment on the Reddit thread.
+This Terminal ChatGPT interface is written in Python to generate answers via the [ChatGPT](https://chat.openai.com/chat) model (which is a large language model trained by [OpenAI](https://openai.com)). 
 
 If you have any feedback or suggestions for improvements, I would love to hear them. 
 Thank you for visiting my GitHub page and considering my project!
 
-**[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-RedditBot)**
+**[View on GitHub](https://github.com/PopDaddyGames/ChatGPT-Terminal)**
 
 **[Support on Patreon](https://patreon.com/PopDaddyGames?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)**
 <br/>
